@@ -42,7 +42,7 @@ This project was developed as part of my **one-month internship** in Artificial 
 - Build a simple UI for user-friendly predictions.
 - Expand dataset with international HS code mappings (WCO, USHTS, ICEGATE).
 
-##👩‍💻 Author
+## 👩‍💻 Author
 
 Varsha S T
 B.Tech in Computer Science & Engineering | AI Engineer
