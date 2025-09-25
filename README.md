@@ -26,15 +26,9 @@ This project was developed as part of my **one-month internship** in Artificial 
 
 
 ## Example output ⚙️:
+<img width="825" height="317" alt="image" src="https://github.com/user-attachments/assets/67c8e4f0-6210-4213-a6fa-b1bab4816864" />
 
-{
-  "query": "wireless bluetooth earphones",
-  "predictions": [
-    {"hs6": "851830", "confidence": 0.92, "description": "Headphones and earphones"},
-    {"hs6": "851821", "confidence": 0.05, "description": "Loudspeakers"},
-    {"hs6": "851890", "confidence": 0.03, "description": "Parts of microphones"}
-  ]
-}
+
 
 ## Future Improvements 📌
 - Finalize XGBoost integration for better accuracy.
@@ -45,4 +39,5 @@ This project was developed as part of my **one-month internship** in Artificial 
 ## 👩‍💻 Author
 
 Varsha S T
-B.Tech in Computer Science & Engineering | AI Engineer
+
+B.Tech in Computer Science & Engineering | AI Engineer.
